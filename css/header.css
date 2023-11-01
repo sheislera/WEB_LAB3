@@ -1,0 +1,20 @@
+.header {
+    width: var(--width-main);
+    height: var(--height-header);
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header img{
+    width: 281px;
+    height: 160px;
+}
+
+h1{
+    font-family: var(--font-family-h);
+    font-size: var(--font-size-h1);
+    color: var(--color-dark-grey);
+    text-align: center;
+    font-weight: 700;
+}

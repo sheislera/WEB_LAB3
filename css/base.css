@@ -1,0 +1,37 @@
+@font-face {
+    font-family : Cabin;
+    src : url("../fonts/Cabin/Cabin-VariableFont_wdth\,wght.ttf");
+    font-style : normal;
+    font-weight : 700;
+    }
+
+    @font-face {
+        font-family : ABeeZee;
+        src : url("../fonts/ABeeZee/ABeeZee-Regular.ttf");
+        font-style : normal;
+        font-weight : 400;
+        }
+
+:root {
+    --color-grey: #F8F8F8;
+    --color-dark-grey: #3C3C3C;
+    --color-black: #0D1800;
+
+    --font-family-h: "Cabin";
+    --font-family-text: "ABeeZee";
+    --font-size-h1: 36px;
+    --font-size-h2: 32px;
+    --font-size-p: 24px;
+
+    --width: 100%;
+    --width-main: 75%;
+    --width-menu: 25%;
+    --width-logo: 20%;
+    --height-menu: 100vh;
+    --height-header: 160px;
+    --height-main: 1004px;
+    --height-additional: 167px;
+    --height-footer: 70px;
+}
+
+

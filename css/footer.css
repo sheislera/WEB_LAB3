@@ -1,0 +1,10 @@
+.footer{
+    background-color: var(--color-dark-grey);
+    margin-top: 10px;
+    width: 75%;
+}
+
+.footer p{
+    text-align: center;
+    color: var(--color-grey);
+}
